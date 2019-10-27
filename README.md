@@ -1,2 +1,5 @@
 # Hello-world
-Just another repository
+
+Hello Human
+
+My name is Leo. And i wanna be a great web master-and-programmer in Java! 
